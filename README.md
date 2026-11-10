@@ -4,6 +4,10 @@
 
 A web platform built for an HR company that turns the intake of socioeconomic studies into branded, ready-to-deliver PDF reports.
 
+![Dashboard](screenshots/dashboard.png)
+
+<sub>Dashboard with study progress, privacy-notice status and shareable study codes. Personal data in the screenshot is replaced with sample values.</sub>
+
 ## The problem
 
 Each socioeconomic study was assembled by hand: collecting personal, family, academic and employment data, formatting it into a report, inserting photos and attaching supporting documents. The process was slow, error-prone and produced inconsistent results across clients.
