@@ -67,28 +67,28 @@ New accounts start as *pending* and cannot work until an administrator approves 
 
 ## Features
 
-**Capture**
+### Capture
 
-- ✅ Guided multi-step form with dynamic sections for family members, jobs and education.
-- ✅ **AI extraction** from PDF, Word, Excel, OpenDocument, RTF or CSV files to pre-fill the form.
-- ✅ **Voice dictation**: the evaluator speaks, and the AI places each answer in the right field, even in another section.
-- ✅ Automatic cloud saving, plus a **shareable study code** so another evaluator can continue exactly where the first one stopped.
-- ✅ Guided tour for first-time users.
+- **Guided form**: multi-step, with dynamic sections for family members, jobs and education.
+- **AI extraction**: reads PDF, Word, Excel, OpenDocument, RTF or CSV files and pre-fills the form.
+- **Voice dictation**: the evaluator speaks, and the AI places each answer in the right field, even in another section.
+- **Cloud autosave**: work is saved automatically, and a shareable study code lets another evaluator continue exactly where the first one stopped.
+- **Guided tour**: walks first-time users through the app.
 
-**Reports**
+### Reports
 
-- ✅ Branded PDF with a consistent layout, cover page, headers and watermark.
-- ✅ Candidate and home photos placed inside the report.
-- ✅ Supporting PDF documents merged into a single deliverable file.
-- ✅ **Unique folio and QR code** on every report, linked to a public verification page.
-- ✅ Psychometric reports converted from the test provider's PDF into Word or PDF.
+- **Branded PDF**: consistent layout, cover page, headers and watermark.
+- **Embedded photos**: candidate and home photos placed inside the report.
+- **Single deliverable**: supporting PDF documents merged into one file.
+- **Folio and QR code**: unique on every report, linked to a public verification page.
+- **Psychometric conversion**: the test provider's PDF converted into Word or PDF.
 
-**Compliance and operations**
+### Compliance and operations
 
-- ✅ **Electronic privacy consent**: single-use link, typed full name and a hand-drawn signature.
-- ✅ Consent status shown on each study (pending, accepted, revoked).
-- ✅ Admin panel for user approval and roles.
-- ✅ In-app "What's new" notice that lists user-facing changes after each release.
+- **Electronic privacy consent**: single-use link, typed full name and a hand-drawn signature.
+- **Consent status**: shown on each study (pending, accepted, revoked).
+- **Admin panel**: user approval and roles.
+- **"What's new" notice**: lists user-facing changes after each release.
 
 ## How a study flows
 
